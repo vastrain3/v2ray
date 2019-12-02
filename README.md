@@ -13,7 +13,8 @@
 ## 更多 V2Ray 教程文章
 https://github.com/233boy/v2ray/wiki
 
-git clone https://github.com/vastrain3/v2ray -b master
-cd v2ray
-chmod +x install.sh
-./install.sh local
+## 命令
+git clone https://github.com/vastrain3/v2ray -b master  
+cd v2ray  
+chmod +x install.sh  
+./install.sh local  
